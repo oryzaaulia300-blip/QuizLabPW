@@ -50,8 +50,8 @@ Setiap data tugas memiliki atribut:
 
 1. **Clone repository:**
    ```bash
-   git clone https://github.com/oryzaaulia300-blip/QuizPW.git
-   cd QuizPW
+   git clone https://github.com/oryzaaulia300-blip/QuizLabPW.git
+   cd QuizLabPW
    ```
 
 2. **Install dependencies:**
